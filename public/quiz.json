@@ -1,6 +1,6 @@
 {
   "title": "Quiz Ultime sur L'Attaque des Titans",
-  "minimum_score": 4,
+  "minimum_score": 35,
   "success_message": "Incroyable ! Vous êtes au niveau d’un Ackerman — rien ne vous échappe !",
   "failure_message": "Les Titans ont gagné cette manche... Vous devez revoir vos manœuvres en 3D !",
   "questions": [
@@ -28,6 +28,231 @@
       "question": "Qui est le capitaine du Bataillon d’exploration dans la saison 1 ?",
       "choices": ["Levi Ackerman", "Erwin Smith", "Hange Zoë", "Jean Kirstein"],
       "correct_answer": "Levi Ackerman"
+    },
+    {
+      "question": "Quel Titan Eren parvient-il à contrôler pour la première fois ?",
+      "choices": ["Le Titan Assaillant", "Le Titan Cuirassé", "Le Titan Féminin", "Le Titan Colossal"],
+      "correct_answer": "Le Titan Assaillant"
+    },
+    {
+      "question": "Qui est la détentrice du Titan Féminin ?",
+      "choices": ["Annie Leonhart", "Mikasa Ackerman", "Historia Reiss", "Pieck Finger"],
+      "correct_answer": "Annie Leonhart"
+    },
+    {
+      "question": "Quel est le nom du mur le plus extérieur ?",
+      "choices": ["Mur Maria", "Mur Rose", "Mur Sina", "Mur Paradis"],
+      "correct_answer": "Mur Maria"
+    },
+    {
+      "question": "Qui tue le Titan qui dévore la mère d’Eren ?",
+      "choices": ["Mikasa", "Hannes", "Eren", "Le Titan Dina Fritz"],
+      "correct_answer": "Le Titan Dina Fritz"
+    },
+    {
+      "question": "Quel personnage hérite du Titan Colossal ?",
+      "choices": ["Armin Arlert", "Jean Kirstein", "Eren Jäger", "Reiner Braun"],
+      "correct_answer": "Armin Arlert"
+    },
+    {
+      "question": "Qui est le détenteur du Titan Cuirassé ?",
+      "choices": ["Reiner Braun", "Bertolt Hoover", "Zeke Jäger", "Porco Galliard"],
+      "correct_answer": "Reiner Braun"
+    },
+    {
+      "question": "Quelle est la vraie identité de Krista Lenz ?",
+      "choices": ["Historia Reiss", "Ymir Fritz", "Annie Leonhart", "Carla Jäger"],
+      "correct_answer": "Historia Reiss"
+    },
+    {
+      "question": "Quel est le lien entre Eren et Zeke ?",
+      "choices": ["Ils sont demi-frères", "Ils sont cousins", "Ils sont ennemis jurés", "Aucun lien"],
+      "correct_answer": "Ils sont demi-frères"
+    },
+    {
+      "question": "Qui dirige la mission de récupération du Titan Féminin ?",
+      "choices": ["Erwin Smith", "Levi Ackerman", "Hange Zoë", "Eren Jäger"],
+      "correct_answer": "Erwin Smith"
+    },
+    {
+      "question": "Quel personnage meurt en menant la charge contre le Titan Bestial ?",
+      "choices": ["Erwin Smith", "Levi Ackerman", "Jean Kirstein", "Hange Zoë"],
+      "correct_answer": "Erwin Smith"
+    },
+    {
+      "question": "Quel est le nom du Titan de Zeke Jäger ?",
+      "choices": ["Le Titan Bestial", "Le Titan Marteau d’Armes", "Le Titan Mâchoire", "Le Titan Charrette"],
+      "correct_answer": "Le Titan Bestial"
+    },
+    {
+      "question": "Qui est la détentrice du Titan Charrette ?",
+      "choices": ["Pieck Finger", "Yelena", "Ymir", "Historia Reiss"],
+      "correct_answer": "Pieck Finger"
+    },
+    {
+      "question": "Dans quelle saison l’équipe découvre la mer ?",
+      "choices": ["Saison 3", "Saison 2", "Saison 4", "Saison 1"],
+      "correct_answer": "Saison 3"
+    },
+    {
+      "question": "Comment s’appelle la nation ennemie de Paradis ?",
+      "choices": ["Marh", "Marley", "Mahr", "Mare"],
+      "correct_answer": "Marley"
+    },
+    {
+      "question": "Qui est le chef militaire de Marley ?",
+      "choices": ["Theo Magath", "Zeke Jäger", "Reiner Braun", "Willy Tybur"],
+      "correct_answer": "Theo Magath"
+    },
+    {
+      "question": "Quelle est la première scène de la saison 4 ?",
+      "choices": ["La guerre à Marley", "L’enfance d’Eren", "L’attaque du mur Maria", "Le rêve d’Armin"],
+      "correct_answer": "La guerre à Marley"
+    },
+    {
+      "question": "Quel Titan Eren vole-t-il lors de la bataille de Liberio ?",
+      "choices": ["Le Titan Marteau d’Armes", "Le Titan Bestial", "Le Titan Cuirassé", "Le Titan Colossal"],
+      "correct_answer": "Le Titan Marteau d’Armes"
+    },
+    {
+      "question": "Comment s’appelle la créatrice de tous les Titans ?",
+      "choices": ["Ymir Fritz", "Historia Reiss", "Pieck Finger", "Carla Jäger"],
+      "correct_answer": "Ymir Fritz"
+    },
+    {
+      "question": "Quelle organisation s’oppose à Eren dans la saison finale ?",
+      "choices": ["L’Alliance", "Le Bataillon d’exploration", "Les Guerriers", "Les Yeageristes"],
+      "correct_answer": "L’Alliance"
+    },
+    {
+      "question": "Qui tue Eren dans la dernière saison ?",
+      "choices": ["Mikasa Ackerman", "Levi Ackerman", "Armin Arlert", "Reiner Braun"],
+      "correct_answer": "Mikasa Ackerman"
+    },
+    {
+      "question": "Quel est le nom du plan d’extermination mondial d’Eren ?",
+      "choices": ["Le Grand Terrassement", "Le Grand Cataclysme", "L’Ultime Marche", "La Fin du Monde"],
+      "correct_answer": "Le Grand Terrassement"
+    },
+    {
+      "question": "Quel est le véritable objectif d’Eren dans la saison finale ?",
+      "choices": ["Libérer les Eldiens", "Détruire Marley", "Mettre fin au cycle de haine", "Devenir roi"],
+      "correct_answer": "Mettre fin au cycle de haine"
+    },
+    {
+      "question": "Qui est la dernière personne à parler à Eren avant sa mort ?",
+      "choices": ["Armin Arlert", "Mikasa Ackerman", "Levi Ackerman", "Zeke Jäger"],
+      "correct_answer": "Armin Arlert"
+    },
+    {
+      "question": "Quel personnage reste en vie à la toute fin de l’anime ?",
+      "choices": ["Armin Arlert", "Eren Jäger", "Mikasa Ackerman", "Reiner Braun"],
+      "correct_answer": "Armin Arlert"
+    },
+    {
+      "question": "Comment s'appelle l’auteur du manga ?",
+      "choices": ["Hajime Isayama", "Masashi Kishimoto", "Eiichiro Oda", "Tite Kubo"],
+      "correct_answer": "Hajime Isayama"
+    },
+    {
+      "question": "Quelle est la hauteur approximative du Mur Maria ?",
+      "choices": ["50 mètres", "100 mètres", "30 mètres", "60 mètres"],
+      "correct_answer": "50 mètres"
+    },
+    {
+      "question": "Quel personnage est issu du clan royal avant Historia ?",
+      "choices": ["Rod Reiss", "Uri Reiss", "Frieda Reiss", "Tous les précédents"],
+      "correct_answer": "Tous les précédents"
+    },
+    {
+      "question": "Quel Titan est capable de durcir son corps à volonté ?",
+      "choices": ["Titan Féminin", "Titan Cuirassé", "Titan Marteau d’Armes", "Tous les précédents"],
+      "correct_answer": "Tous les précédents"
+    },
+    {
+      "question": "Quelle est la principale faiblesse du Titan Cuirassé ?",
+      "choices": ["Les articulations", "La nuque", "Les yeux", "Le dos"],
+      "correct_answer": "Les articulations"
+    },
+    {
+      "question": "Quel membre du Bataillon d’exploration invente le liquide pour manœuvre tridimensionnelle ?",
+      "choices": ["Hange Zoë", "Erwin Smith", "Moblit Berner", "Eren Jäger"],
+      "correct_answer": "Hange Zoë"
+    },
+    {
+      "question": "Quel est le vrai nom de la première reine d’Eldia après Ymir ?",
+      "choices": ["Fritz", "Maria", "Sina", "Rose"],
+      "correct_answer": "Fritz"
+    },
+    {
+      "question": "Quelle est la durée de vie d’un détenteur de Titan ?",
+      "choices": ["13 ans", "20 ans", "10 ans", "15 ans"],
+      "correct_answer": "13 ans"
+    },
+    {
+      "question": "Comment s’appelle la première ville attaquée dans l’épisode 1 ?",
+      "choices": ["Shiganshina", "Trost", "Mitras", "Stohess"],
+      "correct_answer": "Shiganshina"
+    },
+    {
+      "question": "Quelle arme spéciale tue presque Zeke lors de l'assaut du Bataillon ?",
+      "choices": ["Lance foudroyante", "Canon anti-Titan", "Couteau d’acier", "Explosion aérienne"],
+      "correct_answer": "Lance foudroyante"
+    },
+    {
+      "question": "Quelle capacité unique possède le Titan Marteau d’Armes ?",
+      "choices": ["Créer des armes avec son corps", "Voler", "Régénération instantanée", "Créer des Titans purs"],
+      "correct_answer": "Créer des armes avec son corps"
+    },
+    {
+      "question": "Quel est le vrai nom de Ymir (celle de la 104e brigade) ?",
+      "choices": ["Inconnu", "Ymir Fritz", "Ymir Reiss", "Ymir Braun"],
+      "correct_answer": "Inconnu"
+    },
+    {
+      "question": "Que signifient les ailes du logo du Bataillon d’exploration ?",
+      "choices": ["La liberté", "La bravoure", "La loyauté", "La victoire"],
+      "correct_answer": "La liberté"
+    },
+    {
+      "question": "Combien de Titans primordiaux existent dans l’histoire ?",
+      "choices": ["Neuf", "Huit", "Dix", "Sept"],
+      "correct_answer": "Neuf"
+    },
+    {
+      "question": "Qui tue la sœur d’Histoire Reiss ?",
+      "choices": ["Rod Reiss", "Grisha Jäger", "Eren Jäger", "Kenny Ackerman"],
+      "correct_answer": "Grisha Jäger"
+    },
+    {
+      "question": "Quel est le nom du navire qui emmène l’alliance vers Marley ?",
+      "choices": ["Le bateau Azumabito", "Le Paradis", "Le Liberio", "Le Hope"],
+      "correct_answer": "Le bateau Azumabito"
+    },
+    {
+      "question": "Quelle est la signification du prénom 'Eren' en turc ?",
+      "choices": ["Saint", "Héros", "Colère", "Espoir"],
+      "correct_answer": "Saint"
+    },
+    {
+      "question": "Quel est le prénom complet du père d’Eren ?",
+      "choices": ["Grisha Jäger", "Kruger Jäger", "Dina Fritz", "Zeke Jäger"],
+      "correct_answer": "Grisha Jäger"
+    },
+    {
+      "question": "Quel est le nom du mentor de Levi Ackerman avant Erwin ?",
+      "choices": ["Kenny Ackerman", "Furlan", "Isabel", "Hange Zoë"],
+      "correct_answer": "Kenny Ackerman"
+    },
+    {
+      "question": "Quel membre du Bataillon est d’origine Ackerman en dehors de Levi ?",
+      "choices": ["Mikasa Ackerman", "Hange Zoë", "Jean Kirstein", "Historia Reiss"],
+      "correct_answer": "Mikasa Ackerman"
+    },
+    {
+      "question": "Que voit-on pousser à l’endroit où Eren meurt ?",
+      "choices": ["Une plante", "Une fleur blanche", "Un arbre géant", "Une croix"],
+      "correct_answer": "Une plante"
     }
   ]
 }
