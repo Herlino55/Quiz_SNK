@@ -5,7 +5,7 @@
         <ProgressBar :value="step+1" :max="quiz.questions.length" />
         <Question :key="question.question" :question="question" v-if="state === 'question'" @answer="addAnswer" />
         <Recap v-if="state === 'recap'" :answers="answers" :quiz="quiz" />
-        {{ answers }}
+        <!-- {{ answers }} -->
     </div>
 
 </template>
