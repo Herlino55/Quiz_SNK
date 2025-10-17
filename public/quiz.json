@@ -1,0 +1,33 @@
+{
+  "title": "Quiz Ultime sur L'Attaque des Titans",
+  "minimum_score": 4,
+  "success_message": "Incroyable ! Vous êtes au niveau d’un Ackerman — rien ne vous échappe !",
+  "failure_message": "Les Titans ont gagné cette manche... Vous devez revoir vos manœuvres en 3D !",
+  "questions": [
+    {
+      "question": "Comment s'appelle le protagoniste principal de L'Attaque des Titans ?",
+      "choices": ["Eren Jäger", "Armin Arlert", "Jean Kirstein", "Reiner Braun"],
+      "correct_answer": "Eren Jäger"
+    },
+    {
+      "question": "Quel est le rêve d’Eren dans la saison 1 ?",
+      "choices": ["Explorer le monde extérieur", "Devenir roi", "Tuer tous les Titans", "Sauver sa mère"],
+      "correct_answer": "Explorer le monde extérieur"
+    },
+    {
+      "question": "Comment s'appelle la mère d’Eren ?",
+      "choices": ["Carla Jäger", "Mina Carolina", "Annie Leonhart", "Sasha Blouse"],
+      "correct_answer": "Carla Jäger"
+    },
+    {
+      "question": "Quel personnage est connu pour son amour démesuré de la viande ?",
+      "choices": ["Sasha Blouse", "Historia Reiss", "Hange Zoë", "Ymir"],
+      "correct_answer": "Sasha Blouse"
+    },
+    {
+      "question": "Qui est le capitaine du Bataillon d’exploration dans la saison 1 ?",
+      "choices": ["Levi Ackerman", "Erwin Smith", "Hange Zoë", "Jean Kirstein"],
+      "correct_answer": "Levi Ackerman"
+    }
+  ]
+}
