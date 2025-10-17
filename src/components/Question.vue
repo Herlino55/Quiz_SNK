@@ -46,7 +46,7 @@ const props = defineProps({
  onMounted( () => {
     timer = setTimeout( () =>{
         emits('answer', answer)
-    }, 3_000)
+    }, 10_000)
  })
 
  onUnmounted( () =>{
